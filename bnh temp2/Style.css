@@ -1,0 +1,33 @@
+*{
+    border: 1px solid black;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    width: 100%;
+    line-height: 1;
+}
+
+header {
+    background: black;
+    padding: 1%;
+}
+
+#logo {
+    width: 20%;
+}
+
+main {
+    
+}
+
+#titulo-cabeçalho {
+    margin: 0;
+}
+
+#titulo-central {
+    text-align: center;
+    font-size: 31px;
+	margin-top: 0;
+	padding: 1%;
+}
